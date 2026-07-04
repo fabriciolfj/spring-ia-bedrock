@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: study
+  ai:
+    bedrock:
+      converse:
+        chat:
+          top-k: 10
+          model: mistral.mistral-large-2402-v1:0
